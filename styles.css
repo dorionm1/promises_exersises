@@ -1,0 +1,25 @@
+.button {
+    background-color: #166a30;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+  }
+
+.card {
+    height: 100px;
+    width: 60px;
+    padding: 5px;
+}
+
+body {
+    background-color: green;
+}
